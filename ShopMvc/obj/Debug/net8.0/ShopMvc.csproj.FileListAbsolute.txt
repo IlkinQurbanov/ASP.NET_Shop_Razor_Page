@@ -36,3 +36,4 @@ C:\Users\Ilkin\Desktop\ShopMvc\ShopMvc\obj\Debug\net8.0\refint\ShopMvc.dll
 C:\Users\Ilkin\Desktop\ShopMvc\ShopMvc\obj\Debug\net8.0\ShopMvc.pdb
 C:\Users\Ilkin\Desktop\ShopMvc\ShopMvc\obj\Debug\net8.0\ShopMvc.genruntimeconfig.cache
 C:\Users\Ilkin\Desktop\ShopMvc\ShopMvc\obj\Debug\net8.0\ref\ShopMvc.dll
+C:\Users\Ilkin\Desktop\ShopMvc\ShopMvc\obj\Debug\net8.0\ShopMvc.sourcelink.json
