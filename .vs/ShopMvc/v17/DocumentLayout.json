@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ilkin\\Desktop\\ShopMvc\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{39519944-210D-4AD9-88F8-05BCDF5513DC}|ShopMvc\\ShopMvc.csproj|c:\\users\\ilkin\\desktop\\shopmvc\\shopmvc\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{39519944-210D-4AD9-88F8-05BCDF5513DC}|ShopMvc\\ShopMvc.csproj|solutionrelative:shopmvc\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39519944-210D-4AD9-88F8-05BCDF5513DC}|ShopMvc\\ShopMvc.csproj|c:\\users\\ilkin\\desktop\\shopmvc\\shopmvc\\pages\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{39519944-210D-4AD9-88F8-05BCDF5513DC}|ShopMvc\\ShopMvc.csproj|solutionrelative:shopmvc\\pages\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39519944-210D-4AD9-88F8-05BCDF5513DC}|ShopMvc\\ShopMvc.csproj|c:\\users\\ilkin\\desktop\\shopmvc\\shopmvc\\pages\\contact.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39519944-210D-4AD9-88F8-05BCDF5513DC}|ShopMvc\\ShopMvc.csproj|solutionrelative:shopmvc\\pages\\contact.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ilkin\\Desktop\\ShopMvc\\ShopMvc\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ShopMvc\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Ilkin\\Desktop\\ShopMvc\\ShopMvc\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ShopMvc\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAABYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-23T10:40:11.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Contact.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Ilkin\\Desktop\\ShopMvc\\ShopMvc\\Pages\\Contact.cshtml.cs",
+              "RelativeDocumentMoniker": "ShopMvc\\Pages\\Contact.cshtml.cs",
+              "ToolTip": "C:\\Users\\Ilkin\\Desktop\\ShopMvc\\ShopMvc\\Pages\\Contact.cshtml.cs",
+              "RelativeToolTip": "ShopMvc\\Pages\\Contact.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T10:19:52.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Contact.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ilkin\\Desktop\\ShopMvc\\ShopMvc\\Pages\\Contact.cshtml",
+              "RelativeDocumentMoniker": "ShopMvc\\Pages\\Contact.cshtml",
+              "ToolTip": "C:\\Users\\Ilkin\\Desktop\\ShopMvc\\ShopMvc\\Pages\\Contact.cshtml",
+              "RelativeToolTip": "ShopMvc\\Pages\\Contact.cshtml",
+              "ViewState": "AQIAACsAAAAAAAAAAAAIwD0AAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-23T10:19:08.978Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
